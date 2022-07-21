@@ -1,0 +1,9 @@
+main {
+	width: auto;
+	margin: 0 auto;
+}
+
+form label{
+	display: block;
+	margin: 10px 0 10px;
+}

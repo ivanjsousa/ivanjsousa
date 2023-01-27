@@ -6,17 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Back End, iniciante, e gosto muito de compartilhar meu conhecimento e aprendizado para verificar minha evolução.
-    <a href="" target="_blank">
-      <img
-           width="10%" 
-           align="center" 
-           valign="middle" 
-           src="" 
-           target="_blank" 
-      />
-    </a>  
-  </p>
+    Sou Desenvolvedor Back End, iniciante, e gosto muito de compartilhar meu conhecimento e aprendizado para verificar minha evolução.</p>
   
   <p align="center">
     Já se inscreve aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️
